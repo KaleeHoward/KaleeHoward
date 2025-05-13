@@ -3,4 +3,4 @@
 - 🔭 I’m currently working on the Introduction to Programming module at Code:You alongside the May 2025 cohort.
 - 💬 Ask me about how to get started at Code:You!
 - 📫 How to reach me: you can find me at my email kalee@codeyou.org
-- ⚡ Fun fact: My favorite band is Sleep Token and I enjoy gaming, readin, and baking in my free time. 
+- ⚡ Fun fact: My favorite band is Sleep Token and I enjoy gaming, reading, and baking in my free time. 
